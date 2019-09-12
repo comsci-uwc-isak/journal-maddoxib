@@ -25,3 +25,9 @@ I feel I still have more to learn about how data is shared remotely over network
 today we learned how to turn a raspberry pi into a vpn server, i know how vpns improve security and the simple commands needed to
 create one on a rpi. in general i dont think this is the most useful thing though, since it can still be linked to a location
 near your computer, and it can be difficult to successfully connect to.
+
+
+9-12
+today we continued working with a raspberry pi vpn, trying to connect our devices to the network. it was unsuccessful.
+this was confusing because there were no apparent errors, it just refused to connect. hopefully we can explain ourselves
+adequately next class.
