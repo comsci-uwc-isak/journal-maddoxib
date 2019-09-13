@@ -31,3 +31,11 @@ near your computer, and it can be difficult to successfully connect to.
 today we continued working with a raspberry pi vpn, trying to connect our devices to the network. it was unsuccessful.
 this was confusing because there were no apparent errors, it just refused to connect. hopefully we can explain ourselves
 adequately next class.
+
+9-13
+we presented what we learned from working with VPN RPi. I still don't quite understand the utility of using a RPi as a VPN
+without other filters, since the RPi will still point to your location if you are nearby. But I guess it is more of a start
+to understanding the logic behind VPNs. I also discussed my IA with Dr. P and have a good plan going forward. 
+I will be using a text-based rather than graphic-based display for the animal creation processes, so the app
+will rely heavily on databases. I will create the appropriate flow charts and UML diagrams in the next three weeks, after
+which point I can begin coding. 
