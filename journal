@@ -82,6 +82,20 @@ types of meat, and after that I will work on saving that information in one of t
 of how many animals exist in the farm, but that will be based on the info from the first database, I think. I still have a lot
 to do, but I feel much more comfortable and confident!
 
+10-3
+Today we had a test on networks, one which I felt somewhat prepared for but still had a bit of trouble with. I always
+struggle with the IB phrasing of questions, even though the markschemes make it look simple. Afterwards I continued work on my
+IA. I have figured out how to create a database table, but am now working on creating one with defaults which I can edit
+rather than a table that collects new entries. 
+
+10-4
+I have stumbled upon another issue with my IA. While I think I have successfully created a data table with initial values, 
+I am having trouble updating those values. what I want to do is just have a function that runs when the user clicks "save data"
+which makes each number of days go up by one if the switch is false, and then increases the number of animals if another 
+condition is met. One tutorial I followed used something called SQLite.setter, but that doesn't work for me, and when I try
+to initialize my own setters/getters for all the variables, it doesn't work either. I am hoping to get some help on this from
+one of my classmates, or find a better tutorial. 
+
 
 
 
