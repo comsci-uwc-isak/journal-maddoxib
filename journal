@@ -1,113 +1,13 @@
-8-29
-today we did a few challenges to review tracing algorithms, describing hardware, 
-and did a fun game involving a bit of a scavenger hunt at the KAC computer.
-I realized there are many different ways to approach problems, and that
-Computer Science gives us a lot of interesting tools for approaching problem solving.
+journal entry: today we reviewed networks with an episode of the magic school bus. it was a fun way to recap, though obviously
+the show was not particularly detailed. It made me realize I need to review packet switching and IP addresses. I'm still
+struggling to work out how to use core data storage on iOS for my IA, but I am dedicating several days over break to finishing
+the app, so I am sure I can get it done before our internal deadline.
 
-8-30 
-today we learned some basic comands to use in the terminal, including ls (list) cp (copy) and others.
-we also did a short activity that involved creating, moving, and editing files in different directories. 
-I learned that the terminal is a useful tool in understanding and operating a computer,
-and allows one to view information stored on the computer more as data packages rather than apps or programs to run.
+to do: 
 
-
-9-5
-today we learned about different network topologies, types of networks, and IP addresses. 
-we also practiced programming remotely via terminal to a raspberry pi using the commands we learned previously. 
-this provided an example application of the networking concepts we learned as well as practicing our terminal 
-command knowledge.
-
-9-6
-today we continued learning about different levels of networking, and practiced building webpages on raspberry pis.
-I feel I still have more to learn about how data is shared remotely over networks, but I do understand the basics.
-
-9-10
-today we learned how to turn a raspberry pi into a vpn server, i know how vpns improve security and the simple commands needed to
-create one on a rpi. in general i dont think this is the most useful thing though, since it can still be linked to a location
-near your computer, and it can be difficult to successfully connect to.
-
-
-9-12
-today we continued working with a raspberry pi vpn, trying to connect our devices to the network. it was unsuccessful.
-this was confusing because there were no apparent errors, it just refused to connect. hopefully we can explain ourselves
-adequately next class.
-
-9-13
-we presented what we learned from working with VPN RPi. I still don't quite understand the utility of using a RPi as a VPN
-without other filters, since the RPi will still point to your location if you are nearby. But I guess it is more of a start
-to understanding the logic behind VPNs. I also discussed my IA with Dr. P and have a good plan going forward. 
-I will be using a text-based rather than graphic-based display for the animal creation processes, so the app
-will rely heavily on databases. I will create the appropriate flow charts and UML diagrams in the next three weeks, after
-which point I can begin coding. 
-
-9-19
-I found the class today extremely confusing. I struggled to construct a flow chart outlining the encryption process we
-discussed last class. while I understood the logic of the different loops, I was unsure of how to best represent them in a
-flow chart, as I am more comfortable in pseudocode. I was further confused when we started coding the encryption program
-through pug and css, as I am unfamiliar with those languages. At the end of the class, Dr. P did confirm that if we were
-more comfortable, we could code in java instead, and I sort of wished that this had been expressed earlier, as it would have
-saved me a lot of struggling. I still don't understand what the webstorm environment does, and how CSS and pug connect to oop,
-though Dr. P did say that his intention was to teach us a modern programming language and show us a modern environment. While 
-I appreciate that this is valuable as knowledge of computer science in the practical world, it confused me because I could not
-connect it with what I already knew, that being Java. 
-
-We also practiced answering questions with different command terms, which I found helpful,
-but I was again confused when I came upon a question about the different types of wireless network, because I thought that
-the IB curriculum focused on connections like PAN, LAN, etc. but Dr. P suggested I write about 4G/5G/LTE and other mobile
-connection technologies. I don't know anything about these connections, so my answer to the question was based mostly on
-quick research I did in class. If we are expected to know this information for the IB exma, I would like to go over it more
-in depth. I wish that we could spend more time connecting these paper 1 topics to OOP and java, since that is what I and all
-of the other students have spent the most time on in class, and we have all selected the OOP option for Paper 2. 
-
-Besides that, I am continuing to work on my IA. I am unsure if it is best to use the conventions that Dr. P showed me, 
-which I believe are standard for programming flowcharts, or to use the conventions outlined in the IB CS curriculum, 
-which are heavily simplified. I will continue to do research on this, but for the moment I believe it would be best to stick
-to what the curriculum recommends, since at this point in the year I am more focused on scoring well on the exam than
-learning all that there is to learn about computer science. 
-
-I will continue to work hard in this subject and in class, and hopefully my confusion will be clarified in the future. 
-
-
-9/26
-I worked on my IA and am still pretty confused. I'm following a few example projects online, but I am not sure how having
-more than one screen view will affect it, because the examples only have one view. 
-
-
-9-27
-
-Oh my gosh, I am SO HAPPY! I finally am making headway on my IA app. Last class I was doing research and still feeling confused,
-but now that I understand how to attach certain tasks to different buttons and I know how the ViewControl works, I think
-I will make much faster progress. I am currently working on saving the data on whether or not the user has eaten different
-types of meat, and after that I will work on saving that information in one of two databases. The other one will keep track
-of how many animals exist in the farm, but that will be based on the info from the first database, I think. I still have a lot
-to do, but I feel much more comfortable and confident!
-
-10-3
-Today we had a test on networks, one which I felt somewhat prepared for but still had a bit of trouble with. I always
-struggle with the IB phrasing of questions, even though the markschemes make it look simple. Afterwards I continued work on my
-IA. I have figured out how to create a database table, but am now working on creating one with defaults which I can edit
-rather than a table that collects new entries. 
-
-10-4
-I have stumbled upon another issue with my IA. While I think I have successfully created a data table with initial values, 
-I am having trouble updating those values. what I want to do is just have a function that runs when the user clicks "save data"
-which makes each number of days go up by one if the switch is false, and then increases the number of animals if another 
-condition is met. One tutorial I followed used something called SQLite.setter, but that doesn't work for me, and when I try
-to initialize my own setters/getters for all the variables, it doesn't work either. I am hoping to get some help on this from
-one of my classmates, or find a better tutorial. 
-
-10-8
-We went over our test today. I have mixed feelings about the results. I didn't study as much as I could have, so I am not
-surprised I got a 5. Ultimately, I'm pretty ok with a 5 as my PG because I doubt I can do better than that on the papers. 
-I just get really, really frustrated with the way questions are phrased. I know it's not anyone's fault, it's just the way
-the IB works, but I find it hard to study when I know half of the issue is just not understanding what the question is asking.
-At this point, I just want to focus on doing the best I can on my IA, and after that I will dedicate myself to reviewing all
-the past topics regularly. Right now I can't really do both, so I just want to finish my IA. 
-
-
-
-
-
-
-
-
+- IA
+  - figure out core data storage
+  - figure out daily reminders
+  - figure out table display
+  
+  once coding is finished (OCT BREAK!) then finish all documentation!
